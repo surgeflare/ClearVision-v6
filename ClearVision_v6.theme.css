@@ -12,7 +12,7 @@
 
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
-@import url(src/users/overrides.css);
+@import url(https://raw.githubusercontent.com/surgeflare/ClearVision-v6/master/src/users/overrides.css);
 
 /* SETTINGS */
 :root {
