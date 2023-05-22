@@ -5,7 +5,9 @@
 .chatHeaderBar-31g1mU {
     background-color: #00000030 !important;
 }
-.theme-dark .container-YkUktl:before,
+.theme-dark .container-YkUktl:before {
+    display: none !important;
+}
 .theme-dark .container-YkUktl:after {
     display: none !important;
 }
