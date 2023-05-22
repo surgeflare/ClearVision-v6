@@ -1,0 +1,26 @@
+.popoutBanner-3cqRD9,
+.profileBanner-1owKI5 {
+    background-color: #0000 !important;
+}
+.chatHeaderBar-31g1mU {
+    background-color: #00000030 !important;
+}
+.theme-dark .container-YkUktl:hover:before,
+.theme-dark .container-YkUktl:hover:after {
+    display: none !important;
+}
+.theme-dark .container-YkUktl {
+    margin: 0px !important;
+}
+.input-3O04eu:focus {
+    box-shadow: none !important;
+}
+.input-3O04eu {
+    background: none !important;
+}
+.chatHeaderBar-31g1mU {
+    background: none !important;
+}
+.channelTextArea-1VQBuV:focus-within {
+    box-shadow: 0 0 2px 0px var(--main-color) !important;
+}
